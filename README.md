@@ -12,7 +12,7 @@ Additional info
 ---------------
 The script install the epel file in order to use yum for the python 2.6 installation and then add python 2.6 as an alias to the python command so that when python is used it uses the python 2.6 and not the 2.4 that comes with rhel.
 
-Python 2.6 as permenent default python
+Python 2.6 as permanent default python
 --------------------------------------
 You will notice that after reboot python 2.6 is not the default python.
 To make it so insert this line "alias python='/usr/bin/python2.6'" in the user's ".bashrc" file. for example if you use root as your user the file would be at /root/.bashrc
