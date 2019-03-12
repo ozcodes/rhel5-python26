@@ -6,8 +6,7 @@ Instructions:
 Get the epel-release-5-4.noarch.rpm from fedora archives at:
 https://archive.fedoraproject.org/pub/archive/epel/5/x86_64/epel-release-5-4.noarch.rpm
 
-Place the file in the root directory of the machine
-Start install.sh script
+Place the file in the root directory of the machine and run the install.sh script
 
 Additional info
 ---------------
