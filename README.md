@@ -3,7 +3,8 @@ Installing Python 2.6 on RHEL 5
 
 Instructions:
 -------------
-Get the epel-release-5-4.noarch.rpm from defora archive at - https://archive.fedoraproject.org/pub/archive/epel/5/x86_64/epel-release-5-4.noarch.rpm
+Get the epel-release-5-4.noarch.rpm from fedora archives at:
+https://archive.fedoraproject.org/pub/archive/epel/5/x86_64/epel-release-5-4.noarch.rpm
 Place the file in the root directory of the machine
 Start install.sh script
 
